@@ -14,7 +14,7 @@
   "scripts": {
     "test": "ava",
     "test:watch": "ava --watch",
-    "test:coverage": "c8 ava",
+    "test:coverage": "c8 -r lcovonly ava",
     "lint": "eslint 'src/**/*.ts'",
     "lint:fix": "eslint 'src/**/*.ts' --fix",
     "clean": "rm -rf dist dts",
