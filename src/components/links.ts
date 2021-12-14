@@ -1,4 +1,4 @@
-import {Settings} from '../types';
+import {Settings} from '../types.js';
 
 const makeSponsorLine = (paypalUser?: string, githubSponsor?: string) => {
   if (!paypalUser && !githubSponsor) {

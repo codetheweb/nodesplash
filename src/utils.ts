@@ -1,5 +1,5 @@
 import GraphemeSplitter from 'grapheme-splitter';
-import {Settings, SettingsWithPopulatedDefaults, Format} from './types';
+import {Settings, SettingsWithPopulatedDefaults, Format} from './types.js';
 
 const nonASCIIVisualSize = 2.5;
 

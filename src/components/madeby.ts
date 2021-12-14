@@ -1,5 +1,5 @@
-import {Settings} from '../types';
-import {getLeftRightCounts, splitStringVertically} from '../utils';
+import {Settings} from '../types.js';
+import {getLeftRightCounts, splitStringVertically} from '../utils.js';
 
 const maxContentLengthPercent = 0.75;
 

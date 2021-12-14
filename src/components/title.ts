@@ -1,6 +1,6 @@
-import {Settings} from '../types';
-import {getLeftRightCounts} from '../utils';
-import makeMadeByLines, {RequiredParams as MadeByRequiredParams} from './madeby';
+import {Settings} from '../types.js';
+import {getLeftRightCounts} from '../utils.js';
+import makeMadeByLines, {RequiredParams as MadeByRequiredParams} from './madeby.js';
 
 type RequiredParams = MadeByRequiredParams;
 

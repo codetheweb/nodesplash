@@ -1,9 +1,9 @@
 import type {Settings, SettingsWithPopulatedDefaults} from './types';
-import {Format} from './types';
-import makeTitleLines from './components/title';
-import {getDefaultsFor} from './utils';
-import makeAnnouncementLines from './components/announcement';
-import makeLinksLines from './components/links';
+import {Format} from './types.js';
+import makeTitleLines from './components/title.js';
+import {getDefaultsFor} from './utils.js';
+import makeAnnouncementLines from './components/announcement.js';
+import makeLinksLines from './components/links.js';
 
 /**
  *
