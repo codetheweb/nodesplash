@@ -1,10 +1,8 @@
-# 🌊 NodeSplash
+# 🌊 NodeSplash [![codecov](https://codecov.io/gh/codetheweb/nodesplash/branch/master/graph/badge.svg?token=BXZ22G570I)](https://codecov.io/gh/codetheweb/nodesplash)
 
 Library to show log lines at the start of a program.
 
 Direct port of [qdm12](https://github.com/qdm12)'s excellent [GoSplash](https://github.com/qdm12/gosplash) library.
-
-[![codecov](https://codecov.io/gh/codetheweb/nodesplash/branch/master/graph/badge.svg?token=BXZ22G570I)](https://codecov.io/gh/codetheweb/nodesplash)
 
 For example, this
 
