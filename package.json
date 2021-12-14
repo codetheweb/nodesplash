@@ -4,6 +4,7 @@
   "description": "🌊 port of qdm12/gosplash to TypeScript",
   "keywords": ["🌊", "log", "banner", "splash", "console"],
   "main": "dist/index.js",
+  "types": "dts/index.d.ts",
   "type": "module",
   "repository": "git@github.com:codetheweb/nodesplash.git",
   "author": "Max Isom <hi@maxisom.me>",
